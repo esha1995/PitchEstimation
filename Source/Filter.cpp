@@ -11,7 +11,7 @@
 #include <stdio.h>
 #include <string>
 #include <vector>
-#include "fmod.hpp"
+#include "FMODAPI.h"
 #include "PitchEstimator.hpp"
 
 
