@@ -1,12 +1,3 @@
-//
-//  DelayUnit.cpp
-//  DelayPlugin
-//
-//  Created by James Kelly on 14/12/2018.
-//  Copyright © 2018 James Kelly. All rights reserved.
-//
-//
-
 #include <math.h>
 #include <stdio.h>
 #include <string>
